@@ -1,0 +1,23 @@
+@import "../../utils/Variables.scss";
+
+.footer {
+  z-index: 9999;
+  /* height: 2.5em;
+  padding: 0.5em; */
+  /*   position: fixed; */
+  /*  background: $black;
+  width: 100vw;
+  color: $gold;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $black;
+  color: $gold;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
